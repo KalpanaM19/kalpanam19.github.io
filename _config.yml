@@ -1,0 +1,7 @@
+title: "M. Kalpana — Resume"
+email: m.kalpana@yahoo.co.in
+description: "Academic & teaching resume of M. Kalpana"
+baseurl: ""      # leave blank for user.github.io repo, or set to /repo-name
+url: ""          # set to your site url if you have one
+theme: minima
+plugins: []
